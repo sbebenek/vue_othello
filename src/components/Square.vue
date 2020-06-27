@@ -63,11 +63,14 @@ module.exports = {
   height: 3vw;
   border-radius: 50%;
   background: white;
+  border: 1px solid whitesmoke;
+
 }
 .blackPiece {
   width: 3vw;
   height: 3vw;
   border-radius: 50%;
   background: black;
+  border: 1px solid rgb(100,100,100);
 }
 </style>
